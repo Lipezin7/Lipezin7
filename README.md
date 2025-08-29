@@ -59,6 +59,14 @@
 
 ---
 
+### 🚀 Tecnologias que utilizo nos meus projetos
+HTML | CSS | JavaScript | React | Firebase | MySQL
+
+### 📚 Ferramentas que estudei na faculdade
+Java | Node.js | MongoDB | XAMPP | Python
+
+---
+
 <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLipezin7&s=30&c=00A693&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta="/>
 </div>
