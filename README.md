@@ -51,7 +51,9 @@
 ## 📬 Contact
 
 <div align="center">
-  <a href="mailto:filiperocha182@gmail.com"><img src="https://img.shields.io/badge/Gmail-00A693?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=filiperocha182@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00A693?style=for-the-badge&logo=gmail&logoColor=fff"/>
+</a>
   <a href="https://www.instagram.com/lip.rc_7/"><img src="https://img.shields.io/badge/Instagram-007D75?style=for-the-badge&logo=instagram&logoColor=fff"/></a>
   <a href="https://discord.com/users/stlzx7"><img src="https://img.shields.io/badge/Discord-005F56?style=for-the-badge&logo=discord&logoColor=fff"/></a>
   <a href="https://www.linkedin.com/in/filipe-rocha-41b6bb247/"><img src="https://img.shields.io/badge/LinkedIn-004E4E?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
