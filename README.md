@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center">🚀 Desenvolvedor Frontend em formação | HTML | CSS | JavaScript | React Native </h3>
+<h3 align="center">🚀 Técnologo em Analise e Desenvolvimento de Sistemas | HTML | CSS | JavaScript | React Native </h3>
 
 ---
 
